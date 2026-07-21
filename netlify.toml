@@ -3,7 +3,7 @@
   publish = "frontend/dist"
   
   # The command to run to build the project, including changing into the frontend directory
-  command = "cd frontend && npm run build"
+  command = "npm run build"
 
 [[redirects]]
   # Redirect all requests to index.html for Single Page Application routing
